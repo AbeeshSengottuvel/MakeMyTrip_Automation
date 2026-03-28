@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.makemytrip.AppTest" time="10.879" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.makemytrip.AppTest" time="11.465" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\abees\AppData\Local\jdk-11.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\abees\AppData\Local\Temp\surefire17576067132332019035\surefirebooter-20260328181206996_3.jar C:\Users\abees\AppData\Local\Temp\surefire17576067132332019035 2026-03-28T18-12-06_436-jvmRun1 surefire-20260328181206996_1tmp surefire_0-20260328181206996_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\abees\AppData\Local\Temp\surefire12240828512072552131\surefirebooter-20260328181534778_3.jar C:\Users\abees\AppData\Local\Temp\surefire12240828512072552131 2026-03-28T18-15-34_155-jvmRun1 surefire-20260328181534778_1tmp surefire_0-20260328181534778_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\abees\OneDrive\Desktop\Documents\GitHub\MakeMyTrip_Automation\automation\target\test-classes;C:\Users\abees\OneDrive\Desktop\Documents\GitHub\MakeMyTrip_Automation\automation\target\classes;C:\Users\abees\.m2\repository\com\microsoft\playwright\playwright\1.42.0\playwright-1.42.0.jar;C:\Users\abees\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\abees\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\abees\.m2\repository\com\microsoft\playwright\driver\1.42.0\driver-1.42.0.jar;C:\Users\abees\.m2\repository\com\microsoft\playwright\driver-bundle\1.42.0\driver-bundle-1.42.0.jar;C:\Users\abees\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\abees\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\abees\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\abees\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\abees\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -36,7 +36,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\abees\AppData\Local\Temp\surefire17576067132332019035\surefirebooter-20260328181206996_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\abees\AppData\Local\Temp\surefire12240828512072552131\surefirebooter-20260328181534778_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.2+9"/>
@@ -63,5 +63,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="myFirstTest" classname="com.makemytrip.AppTest" time="10.842"/>
+  <testcase name="myFirstTest" classname="com.makemytrip.AppTest" time="11.428"/>
 </testsuite>
