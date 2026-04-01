@@ -20,10 +20,16 @@ public class logintest {
         
         Page page = browser.newPage();
         page.navigate("https://the-internet.herokuapp.com/");
-        
-        assertThat(page.getByAltText("Welcome to the-internet")).hasText("Welcome to the-internet");
 
-        Thread.sleep(10000);
+        var firstlink =page.getByText("A/B Testing");
+        
+        assertThat(firstlink).isVisible();
+        firstlink.click();
+
+        var firstlinkcontent = page.locator("//div[@id='content']");
+
+        System.out.println(firstlinkcontent.textContent());
+        System.out.println("Element is visible");
 
         page.close();
         browser.close();
